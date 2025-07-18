@@ -1,3 +1,4 @@
+//simple grading system.
 import java.util.Scanner;
 
 class Student {
